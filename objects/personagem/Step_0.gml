@@ -1,4 +1,4 @@
-var velocidade = 5;
+var velocidade = 8;
 
 if (keyboard_check(ord("W")) || keyboard_check(vk_up)) {
     y -= velocidade;
